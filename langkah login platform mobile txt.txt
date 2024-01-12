@@ -1,0 +1,5 @@
+ login() {
+    // Let's assume the correct username and password are 'user' and 'password'
+    if (
+      this.username === '12522002' &&
+      this.password === 'achmadgedeardhian12@gmail.com'
